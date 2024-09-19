@@ -1,1 +1,46 @@
+.float-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #d8d8d8;
+}
+
+.float-child{
+    width: 270px;
+    height: 180px;
+    border: 1px solid;
+    padding: 10px;
+    margin: 20px;
+    background-color: #ADD8E6;
+    font-size: small;
+}
+
+p, h4 {
+   text-align: center;
+}
+
+.profile-icon {
+    width: 25px; 
+    height: 25px;
+    display: block;
+    margin: 0 auto 10px auto; 
+}
+
+.contacts {
+    width: 25px; 
+    height: 25px;
+    display: block;
+    margin: 0 auto 10px auto; 
+}
+
+.info {
+    width: 25px; 
+    height: 25px;
+    display: block;
+    margin: 0 auto 10px auto; 
+}
 
